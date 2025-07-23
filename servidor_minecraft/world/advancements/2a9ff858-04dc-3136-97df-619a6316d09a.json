@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-23 03:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-23 03:12:44 +0000"
@@ -476,6 +482,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-07-23 02:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-23 03:31:14 +0000"
     },
     "done": true
   },
