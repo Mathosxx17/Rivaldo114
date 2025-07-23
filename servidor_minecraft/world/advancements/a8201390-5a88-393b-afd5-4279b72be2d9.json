@@ -11,10 +11,17 @@
       "minecraft:beach": "2025-07-23 02:37:40 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-23 02:36:45 +0000",
       "minecraft:forest": "2025-07-23 03:45:14 +0000",
+      "minecraft:sparse_jungle": "2025-07-23 04:54:39 +0000",
       "minecraft:river": "2025-07-23 02:42:28 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-23 04:53:40 +0000",
+      "minecraft:desert": "2025-07-23 04:57:17 +0000",
+      "minecraft:ocean": "2025-07-23 05:08:54 +0000",
+      "minecraft:jungle": "2025-07-23 04:57:47 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-23 02:42:36 +0000",
       "minecraft:savanna": "2025-07-23 02:48:59 +0000",
-      "minecraft:plains": "2025-07-23 02:47:25 +0000"
+      "minecraft:bamboo_jungle": "2025-07-23 04:55:27 +0000",
+      "minecraft:plains": "2025-07-23 02:47:25 +0000",
+      "minecraft:warm_ocean": "2025-07-23 04:57:26 +0000"
     },
     "done": false
   },
@@ -912,7 +919,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-23 03:19:33 +0000",
-      "minecraft:zombie": "2025-07-23 03:18:13 +0000"
+      "minecraft:spider": "2025-07-23 04:43:57 +0000",
+      "minecraft:zombie": "2025-07-23 03:18:13 +0000",
+      "minecraft:creeper": "2025-07-23 04:44:39 +0000"
     },
     "done": false
   },
@@ -934,6 +943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-23 05:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-23 04:07:54 +0000"
@@ -952,6 +967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-23 05:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-07-23 04:07:54 +0000"
@@ -961,6 +982,18 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-23 04:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-07-23 04:52:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-23 04:43:58 +0000"
     },
     "done": true
   },
@@ -976,6 +1009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-23 05:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-07-23 03:41:12 +0000"
@@ -988,9 +1027,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-23 04:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-23 05:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-23 05:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-23 05:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-23 04:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-23 04:43:58 +0000"
     },
     "done": true
   },
@@ -1003,6 +1072,84 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-07-23 04:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-23 05:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-23 04:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-23 04:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-23 04:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-23 04:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-23 04:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-23 04:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-23 05:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-23 05:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-23 05:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-23 04:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-23 04:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-23 05:07:21 +0000"
     },
     "done": true
   },
