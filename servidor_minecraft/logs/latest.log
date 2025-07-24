@@ -1,58 +1,24 @@
-[22:04:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:04:27] [ServerMain/INFO]: Loaded 1290 recipes
-[22:04:27] [ServerMain/INFO]: Loaded 1399 advancements
-[22:04:28] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[22:04:28] [Server thread/INFO]: Loading properties
-[22:04:28] [Server thread/INFO]: Default game type: SURVIVAL
-[22:04:28] [Server thread/INFO]: Generating keypair
-[22:04:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:04:28] [Server thread/INFO]: Using epoll channel type
-[22:04:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:04:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:04:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:04:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:04:28] [Server thread/INFO]: Preparing level "world"
-[22:04:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:04:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:04:31] [Server thread/INFO]: Time elapsed: 503 ms
-[22:04:31] [Server thread/INFO]: Done (2.963s)! For help, type "help"
-[22:06:17] [Server thread/INFO]: XxMatos15[/172.28.131.63:50193] logged in with entity id 10 at (-2056.300000011921, 77.0, 1422.2437952161433)
-[22:06:18] [Server thread/INFO]: XxMatos15 joined the game
-[22:13:21] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
-[22:15:31] [Server thread/INFO]: [XxMatos15: Successfully filled 753 block(s)]
-[22:16:25] [Server thread/INFO]: [XxMatos15: Successfully filled 653 block(s)]
-[22:16:28] [Server thread/WARN]: XxMatos15 moved too quickly! 4.764499826397696,0.0,-9.620866248952098
-[22:23:42] [Server thread/INFO]: [XxMatos15: Successfully filled 1018 block(s)]
-[22:25:15] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
-[22:28:26] [Server thread/INFO]: [XxMatos15: Successfully filled 350 block(s)]
-[22:30:34] [Server thread/INFO]: [XxMatos15: Set the weather to clear]
-[22:30:38] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
-[22:41:01] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
-[22:51:36] [Server thread/INFO]: [XxMatos15: Set the weather to clear]
-[22:51:39] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
-[22:56:39] [Server thread/INFO]: [XxMatos15: Successfully filled 943 block(s)]
-[22:57:15] [Server thread/INFO]: [XxMatos15: Successfully filled 209 block(s)]
-[22:57:47] [Server thread/INFO]: [XxMatos15: Successfully filled 209 block(s)]
-[22:58:58] [Server thread/INFO]: [XxMatos15: Successfully filled 209 block(s)]
-[23:00:22] [Server thread/INFO]: [XxMatos15: Successfully filled 50 block(s)]
-[23:00:46] [Server thread/INFO]: [XxMatos15: Successfully filled 95 block(s)]
-[23:01:02] [Server thread/INFO]: [XxMatos15: Successfully filled 55 block(s)]
-[23:01:20] [Server thread/INFO]: [XxMatos15: Successfully filled 38 block(s)]
-[23:01:39] [Server thread/INFO]: [XxMatos15: Successfully filled 45 block(s)]
-[23:02:08] [Server thread/INFO]: [XxMatos15: Successfully filled 209 block(s)]
-[23:03:21] [Server thread/INFO]: XxMatos15 has made the advancement [What a Deal!]
-[23:03:36] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
-[23:03:49] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
-[23:04:22] [Server thread/INFO]: [XxMatos15: Set own game mode to Spectator Mode]
-[23:04:28] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
-[23:17:17] [Server thread/INFO]: [XxMatos15: Set the time to 13000]
-[23:20:25] [Server thread/INFO]: [XxMatos15: Successfully filled 1159 block(s)]
-[23:20:57] [Server thread/INFO]: [XxMatos15: Successfully filled 130 block(s)]
-[23:23:03] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
-[23:30:32] [Server thread/INFO]: [XxMatos15: Successfully filled 140 block(s)]
-[23:30:38] [Server thread/INFO]: [XxMatos15: Successfully filled 140 block(s)]
-[23:32:51] [Server thread/INFO]: [XxMatos15: Successfully filled 118 block(s)]
-[23:33:55] [Server thread/INFO]: [XxMatos15: Successfully filled 205 block(s)]
-[23:36:48] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
-[23:36:49] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
-[23:36:49] [Server thread/INFO]: XxMatos15 left the game
+[20:26:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:26:15] [ServerMain/INFO]: Loaded 1290 recipes
+[20:26:15] [ServerMain/INFO]: Loaded 1399 advancements
+[20:26:16] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[20:26:16] [Server thread/INFO]: Loading properties
+[20:26:16] [Server thread/INFO]: Default game type: SURVIVAL
+[20:26:16] [Server thread/INFO]: Generating keypair
+[20:26:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:26:16] [Server thread/INFO]: Using epoll channel type
+[20:26:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:26:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:26:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:26:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:26:16] [Server thread/INFO]: Preparing level "world"
+[20:26:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:26:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:26:20] [Worker-Main-1/INFO]: Preparing spawn area: 44%
+[20:26:21] [Server thread/INFO]: Time elapsed: 723 ms
+[20:26:21] [Server thread/INFO]: Done (4.382s)! For help, type "help"
+[20:27:06] [Server thread/INFO]: XxMatos15[/172.28.131.63:62034] logged in with entity id 10 at (-2078.8327717732577, 76.9375, 1444.2625951950217)
+[20:27:06] [Server thread/INFO]: XxMatos15 joined the game
+[20:28:07] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[20:33:40] [Server thread/INFO]: [XxMatos15: Successfully filled 286 block(s)]
+[20:35:14] [Server thread/INFO]: [XxMatos15: Set spawn point to -2015, 110, 2311 [0.0] in minecraft:overworld for XxMatos15]
