@@ -17,6 +17,7 @@
       "minecraft:desert": "2025-07-23 04:57:17 +0000",
       "minecraft:ocean": "2025-07-23 05:08:54 +0000",
       "minecraft:jungle": "2025-07-23 04:57:47 +0000",
+      "minecraft:sunflower_plains": "2025-07-24 22:05:48 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-23 02:42:36 +0000",
       "minecraft:savanna": "2025-07-23 02:48:59 +0000",
       "minecraft:bamboo_jungle": "2025-07-23 04:55:27 +0000",
@@ -1291,6 +1292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-24 22:00:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-24 21:29:53 +0000"
@@ -1438,6 +1445,12 @@
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-07-24 21:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-24 22:05:52 +0000"
     },
     "done": true
   },
