@@ -22,3 +22,8 @@
 [20:28:07] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
 [20:33:40] [Server thread/INFO]: [XxMatos15: Successfully filled 286 block(s)]
 [20:35:14] [Server thread/INFO]: [XxMatos15: Set spawn point to -2015, 110, 2311 [0.0] in minecraft:overworld for XxMatos15]
+[20:37:21] [Server thread/INFO]: Villager cmk['Fletcher'/5727, l='ServerLevel[world]', x=-2054.30, y=77.00, z=1419.30] died, message: 'Fletcher was slain by Zombie'
+[20:37:52] [Server thread/INFO]: Villager cmk['Villager'/6271, l='ServerLevel[world]', x=-2053.50, y=77.56, z=1421.50] died, message: 'Villager suffocated in a wall'
+[20:38:00] [Server thread/INFO]: Villager cmk['Cartographer'/6276, l='ServerLevel[world]', x=-2053.13, y=77.00, z=1421.37] died, message: 'Cartographer was slain by Zombie'
+[20:38:19] [Server thread/INFO]: Villager cmk['Weaponsmith'/5728, l='ServerLevel[world]', x=-2054.82, y=77.00, z=1423.70] died, message: 'Weaponsmith was slain by Zombie'
+[20:43:07] [Server thread/INFO]: [XxMatos15: Set the weather to clear]
