@@ -99,3 +99,14 @@
 [22:23:12] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
 [22:33:26] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
 [22:45:52] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
+[22:50:40] [Server thread/INFO]: XxMatos15 has made the advancement [A Seedy Place]
+[22:55:31] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
+[22:55:45] [Server thread/INFO]: pingaparaangel[/172.28.117.248:57102] logged in with entity id 48673 at (189.5, 68.0, -475.5)
+[22:55:45] [Server thread/INFO]: pingaparaangel joined the game
+[22:55:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=195, y=68, z=-483}
+[22:56:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=192, y=66, z=-482}
+[22:56:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=200, y=62, z=-484}
+[22:56:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=200, y=62, z=-484}
+[22:56:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=200, y=62, z=-484}
+[22:56:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=197, y=62, z=-487}
+[22:56:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=196, y=62, z=-488}
