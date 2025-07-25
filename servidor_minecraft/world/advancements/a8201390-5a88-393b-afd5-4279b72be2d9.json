@@ -929,6 +929,7 @@
       "minecraft:spider": "2025-07-23 04:43:57 +0000",
       "minecraft:zombie": "2025-07-23 03:18:13 +0000",
       "minecraft:creeper": "2025-07-23 04:44:39 +0000",
+      "minecraft:ender_dragon": "2025-07-25 18:35:19 +0000",
       "minecraft:hoglin": "2025-07-25 16:39:32 +0000"
     },
     "done": false
@@ -1908,6 +1909,54 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2025-07-25 18:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-07-25 18:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-07-25 18:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 18:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-25 18:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 18:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 18:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 18:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 18:33:30 +0000"
     },
     "done": true
   },
