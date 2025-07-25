@@ -254,6 +254,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-23 03:03:28 +0000",
+      "minecraft:spider": "2025-07-25 17:35:29 +0000",
       "minecraft:zombie": "2025-07-23 02:49:24 +0000"
     },
     "done": false
@@ -291,6 +292,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-23 03:14:34 +0000",
+      "bread": "2025-07-25 17:30:42 +0000",
       "rotten_flesh": "2025-07-23 02:52:59 +0000",
       "cooked_beef": "2025-07-23 03:03:07 +0000"
     },
@@ -1825,6 +1827,24 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-07-25 17:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-07-25 17:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-25 17:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-25 17:30:02 +0000"
     },
     "done": true
   },
