@@ -10,6 +10,7 @@
       "minecraft:savanna_plateau": "2025-07-23 03:17:08 +0000",
       "minecraft:beach": "2025-07-23 02:43:34 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-23 02:40:54 +0000",
+      "minecraft:forest": "2025-07-25 17:35:50 +0000",
       "minecraft:taiga": "2025-07-23 02:45:19 +0000",
       "minecraft:sparse_jungle": "2025-07-23 04:37:29 +0000",
       "minecraft:river": "2025-07-23 03:16:32 +0000",
@@ -294,6 +295,7 @@
       "cooked_porkchop": "2025-07-23 03:14:34 +0000",
       "bread": "2025-07-25 17:30:42 +0000",
       "rotten_flesh": "2025-07-23 02:52:59 +0000",
+      "cooked_mutton": "2025-07-25 17:43:02 +0000",
       "cooked_beef": "2025-07-23 03:03:07 +0000"
     },
     "done": false
@@ -1830,6 +1832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-25 17:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-07-25 17:29:15 +0000"
@@ -1848,9 +1856,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_ender_eye": "2025-07-25 17:23:34 +0000"
+      "has_spider_eye": "2025-07-25 17:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-07-25 18:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-07-25 18:01:38 +0000"
     },
     "done": true
   },
