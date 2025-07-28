@@ -263,7 +263,9 @@
       "minecraft:enderman": "2025-07-25 18:08:34 +0000",
       "minecraft:silverfish": "2025-07-25 18:06:07 +0000",
       "minecraft:spider": "2025-07-25 17:35:29 +0000",
+      "minecraft:vex": "2025-07-28 02:58:49 +0000",
       "minecraft:zombie": "2025-07-23 02:49:24 +0000",
+      "minecraft:evoker": "2025-07-28 02:58:15 +0000",
       "minecraft:shulker": "2025-07-25 18:39:43 +0000"
     },
     "done": false
@@ -2636,6 +2638,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-07-28 02:58:25 +0000"
     },
     "done": true
   },
