@@ -7,17 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:flower_forest": "2025-07-24 22:13:46 +0000",
-      "minecraft:savanna_plateau": "2025-07-23 02:51:56 +0000",
-      "minecraft:beach": "2025-07-23 02:37:40 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-23 02:36:45 +0000",
-      "minecraft:dark_forest": "2025-07-28 02:49:02 +0000",
       "minecraft:forest": "2025-07-23 03:45:14 +0000",
       "minecraft:taiga": "2025-07-28 03:10:33 +0000",
-      "minecraft:sparse_jungle": "2025-07-23 04:54:39 +0000",
-      "minecraft:river": "2025-07-23 02:42:28 +0000",
-      "minecraft:lukewarm_ocean": "2025-07-23 04:53:40 +0000",
-      "minecraft:old_growth_birch_forest": "2025-07-28 02:48:35 +0000",
       "minecraft:desert": "2025-07-23 04:57:17 +0000",
       "minecraft:ocean": "2025-07-23 05:08:54 +0000",
       "minecraft:jungle": "2025-07-23 04:57:47 +0000",
@@ -25,10 +17,21 @@
       "minecraft:cherry_grove": "2025-07-28 02:47:32 +0000",
       "minecraft:birch_forest": "2025-07-28 03:06:49 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-23 02:42:36 +0000",
-      "minecraft:savanna": "2025-07-23 02:48:59 +0000",
       "minecraft:bamboo_jungle": "2025-07-23 04:55:27 +0000",
-      "minecraft:plains": "2025-07-23 02:47:25 +0000",
-      "minecraft:warm_ocean": "2025-07-23 04:57:26 +0000"
+      "minecraft:warm_ocean": "2025-07-23 04:57:26 +0000",
+      "minecraft:flower_forest": "2025-07-24 22:13:46 +0000",
+      "minecraft:savanna_plateau": "2025-07-23 02:51:56 +0000",
+      "minecraft:beach": "2025-07-23 02:37:40 +0000",
+      "minecraft:dark_forest": "2025-07-28 02:49:02 +0000",
+      "minecraft:sparse_jungle": "2025-07-23 04:54:39 +0000",
+      "minecraft:river": "2025-07-23 02:42:28 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-23 04:53:40 +0000",
+      "minecraft:dripstone_caves": "2025-07-28 03:28:23 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-28 02:48:35 +0000",
+      "minecraft:deep_dark": "2025-07-28 03:28:28 +0000",
+      "minecraft:meadow": "2025-07-28 03:28:30 +0000",
+      "minecraft:savanna": "2025-07-23 02:48:59 +0000",
+      "minecraft:plains": "2025-07-23 02:47:25 +0000"
     },
     "done": false
   },
@@ -2227,9 +2230,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-28 03:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-07-28 03:23:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2025-07-28 02:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-07-28 03:34:09 +0000"
     },
     "done": true
   },

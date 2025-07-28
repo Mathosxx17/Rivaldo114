@@ -16,11 +16,14 @@
       "minecraft:sparse_jungle": "2025-07-23 04:37:29 +0000",
       "minecraft:river": "2025-07-23 03:16:32 +0000",
       "minecraft:lukewarm_ocean": "2025-07-24 23:46:51 +0000",
+      "minecraft:dripstone_caves": "2025-07-28 03:27:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-28 02:44:43 +0000",
       "minecraft:desert": "2025-07-23 04:39:10 +0000",
+      "minecraft:deep_dark": "2025-07-28 03:28:17 +0000",
       "minecraft:jungle": "2025-07-23 04:38:47 +0000",
       "minecraft:ocean": "2025-07-24 21:42:51 +0000",
       "minecraft:cherry_grove": "2025-07-28 02:44:56 +0000",
+      "minecraft:meadow": "2025-07-28 03:28:05 +0000",
       "minecraft:birch_forest": "2025-07-28 02:42:33 +0000",
       "minecraft:savanna": "2025-07-23 02:45:40 +0000",
       "minecraft:plains": "2025-07-23 02:45:56 +0000",
@@ -2587,12 +2590,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-07-28 02:51:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-28 02:49:49 +0000"
@@ -2605,57 +2602,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-07-28 02:51:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-07-28 02:51:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-28 02:51:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-07-28 02:49:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-07-28 02:51:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-28 02:51:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-07-28 02:58:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-28 02:51:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-07-28 02:51:34 +0000"
     },
     "done": true
   },
@@ -2677,15 +2626,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-07-28 02:51:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_fence": {
+  "minecraft:adventure/totem_of_undying": {
     "criteria": {
-      "has_planks": "2025-07-28 02:49:49 +0000"
+      "used_totem": "2025-07-28 02:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-28 03:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-07-28 03:34:05 +0000"
     },
     "done": true
   },
