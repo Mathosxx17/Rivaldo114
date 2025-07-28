@@ -11,14 +11,17 @@
       "minecraft:savanna_plateau": "2025-07-23 02:51:56 +0000",
       "minecraft:beach": "2025-07-23 02:37:40 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-23 02:36:45 +0000",
+      "minecraft:dark_forest": "2025-07-28 02:49:02 +0000",
       "minecraft:forest": "2025-07-23 03:45:14 +0000",
       "minecraft:sparse_jungle": "2025-07-23 04:54:39 +0000",
       "minecraft:river": "2025-07-23 02:42:28 +0000",
       "minecraft:lukewarm_ocean": "2025-07-23 04:53:40 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-28 02:48:35 +0000",
       "minecraft:desert": "2025-07-23 04:57:17 +0000",
       "minecraft:ocean": "2025-07-23 05:08:54 +0000",
       "minecraft:jungle": "2025-07-23 04:57:47 +0000",
       "minecraft:sunflower_plains": "2025-07-24 22:05:48 +0000",
+      "minecraft:cherry_grove": "2025-07-28 02:47:32 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-23 02:42:36 +0000",
       "minecraft:savanna": "2025-07-23 02:48:59 +0000",
       "minecraft:bamboo_jungle": "2025-07-23 04:55:27 +0000",
@@ -483,7 +486,9 @@
       "mutton": "2025-07-23 02:48:50 +0000",
       "bread": "2025-07-25 17:34:51 +0000",
       "cooked_chicken": "2025-07-24 22:24:22 +0000",
+      "enchanted_golden_apple": "2025-07-28 02:49:33 +0000",
       "cooked_mutton": "2025-07-23 04:00:59 +0000",
+      "cooked_beef": "2025-07-28 02:47:40 +0000",
       "melon_slice": "2025-07-23 02:56:45 +0000",
       "porkchop": "2025-07-25 16:44:56 +0000"
     },
@@ -924,11 +929,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-23 03:19:33 +0000",
+      "minecraft:vindicator": "2025-07-28 02:49:54 +0000",
       "minecraft:enderman": "2025-07-25 18:08:52 +0000",
       "minecraft:silverfish": "2025-07-25 18:06:45 +0000",
       "minecraft:spider": "2025-07-23 04:43:57 +0000",
       "minecraft:zombie": "2025-07-23 03:18:13 +0000",
       "minecraft:creeper": "2025-07-23 04:44:39 +0000",
+      "minecraft:evoker": "2025-07-28 02:52:21 +0000",
       "minecraft:ender_dragon": "2025-07-25 18:35:19 +0000",
       "minecraft:hoglin": "2025-07-25 16:39:32 +0000"
     },
@@ -2203,6 +2210,30 @@
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-28 00:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-07-28 02:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-28 02:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-07-28 02:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-28 02:36:15 +0000"
     },
     "done": true
   },

@@ -10,14 +10,18 @@
       "minecraft:savanna_plateau": "2025-07-23 03:17:08 +0000",
       "minecraft:beach": "2025-07-23 02:43:34 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-23 02:40:54 +0000",
+      "minecraft:dark_forest": "2025-07-28 02:41:55 +0000",
       "minecraft:forest": "2025-07-25 17:35:50 +0000",
       "minecraft:taiga": "2025-07-23 02:45:19 +0000",
       "minecraft:sparse_jungle": "2025-07-23 04:37:29 +0000",
       "minecraft:river": "2025-07-23 03:16:32 +0000",
       "minecraft:lukewarm_ocean": "2025-07-24 23:46:51 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-28 02:44:43 +0000",
       "minecraft:desert": "2025-07-23 04:39:10 +0000",
       "minecraft:jungle": "2025-07-23 04:38:47 +0000",
       "minecraft:ocean": "2025-07-24 21:42:51 +0000",
+      "minecraft:cherry_grove": "2025-07-28 02:44:56 +0000",
+      "minecraft:birch_forest": "2025-07-28 02:42:33 +0000",
       "minecraft:savanna": "2025-07-23 02:45:40 +0000",
       "minecraft:plains": "2025-07-23 02:45:56 +0000",
       "minecraft:warm_ocean": "2025-07-23 04:39:48 +0000"
@@ -255,6 +259,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-23 03:03:28 +0000",
+      "minecraft:vindicator": "2025-07-28 02:50:27 +0000",
       "minecraft:enderman": "2025-07-25 18:08:34 +0000",
       "minecraft:silverfish": "2025-07-25 18:06:07 +0000",
       "minecraft:spider": "2025-07-25 17:35:29 +0000",
@@ -299,7 +304,8 @@
       "bread": "2025-07-25 17:30:42 +0000",
       "rotten_flesh": "2025-07-23 02:52:59 +0000",
       "cooked_mutton": "2025-07-25 17:43:02 +0000",
-      "cooked_beef": "2025-07-23 03:03:07 +0000"
+      "cooked_beef": "2025-07-23 03:03:07 +0000",
+      "beetroot": "2025-07-28 02:49:27 +0000"
     },
     "done": false
   },
@@ -2546,6 +2552,132 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-07-26 03:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-07-28 02:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-28 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-28 02:49:49 +0000"
     },
     "done": true
   },
