@@ -2218,6 +2218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-28 02:36:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-07-28 02:47:35 +0000"
@@ -2230,9 +2236,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
-      "avoid_vibration": "2025-07-28 03:30:11 +0000"
+      "has_vex_armor_trim_smithing_template": "2025-07-28 02:56:52 +0000"
     },
     "done": true
   },
@@ -2242,21 +2248,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_vex_armor_trim_smithing_template": "2025-07-28 02:56:52 +0000"
+      "avoid_vibration": "2025-07-28 03:30:11 +0000"
     },
     "done": true
   },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-07-28 03:34:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-07-28 02:36:15 +0000"
     },
     "done": true
   },
